@@ -103,3 +103,8 @@ htmlcov/
 tmp/
 temp/
 *.tmp
+
+# Slide source files (keep only PDFs in repo)
+slides-*.pptx
+slides-*.md
+~$*.pptx
