@@ -49,6 +49,8 @@ uvicorn main:app --reload --port 8080
 
 API docs available at: http://localhost:8080/docs
 
+**Live deployment:** https://iris-classifier-api-589990931603.us-central1.run.app
+
 ## Authentication
 
 Include the API key in every protected request as a header:

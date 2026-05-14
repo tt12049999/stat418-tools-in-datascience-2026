@@ -1,7 +1,7 @@
 # API Documentation — Iris Species Classifier
 
 Base URL (local): `http://localhost:8080`  
-Base URL (Cloud Run): `https://iris-classifier-api-XXXX-uc.a.run.app`
+Base URL (Cloud Run): `https://iris-classifier-api-589990931603.us-central1.run.app`
 
 ---
 
